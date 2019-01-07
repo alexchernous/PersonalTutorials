@@ -10,10 +10,12 @@ Description:
 ------------
 Personal tutorials I've done from online resources listed above.
 
+These tutorials can also be found [in this repo](https://github.com/alexchernous/Projects) with original commits as well as other work. I've since separated that repo into its own repos for each type of project.
+
 Version and Info:
 -----------------
-python version: 3.7.2
-python imports and packages:
+* python version: 3.7.2
+* python imports and packages:
 ```python
 import pandas
 from pandas.plotting import scatter_matrix
