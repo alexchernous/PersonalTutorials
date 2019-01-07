@@ -1,0 +1,3 @@
+https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
+https://archive.ics.uci.edu/ml/datasets/Iris
+https://www.quora.com/Can-any-one-tell-me-what-is-the-difference-between-k-means-classification-and-svm-classification
